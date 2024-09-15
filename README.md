@@ -9,7 +9,7 @@ I’m a developer with experience in backend and mobile development. In backend 
 * 🌍  I'm based in Batumi, GEO
 * 🖥️  See my portfolio at [Notion](http://https://basalt-argon-03d.notion.site/Danila-Rumiantsev-8f461122d7bb4923bcd6a967d3520571?pvs=4)
 * ✉️  You can contact me at [Danilarumyancev@gmail.com](mailto:Danilarumyancev@gmail.com)
-* 🤝  I'm open to collaborating on I am open to cooperation in interesting projects in which I can benefit and learn something new.
+* 🤝  I'm open to cooperation in interesting projects in which I can benefit and learn something new.
 
 ### Skills
 
