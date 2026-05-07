@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danila Rumiantsev
+Yo ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Danila Rumiantsev
 =========================================================================================================================================
 
-Mobile and Web debeloper (Kotlin, Java)
+Mobile & Backend Developer (Kotlin, Java)
 -------------------------------------------------
 
-I’m a developer with experience in backend and mobile development. In backend development, I used Kotlin and Ktor to create and optimize microservices, and worked with PostgreSQL and Docker for efficient data storage and application deployment. In mobile development, I utilized Kotlin and Java, employed Kotlin Multiplatform for cross-platform development, and used Jetpack Compose to create modern UIs.
+Worked with Kotlin Multiplatform, Jetpack Compose, Ktor, PostgreSQL, Docker, and CI/CD pipelines. Focused on building scalable applications, shared business logic, and reliable backend infrastructure.
 
 * 🌍  I'm based in Batumi, GEO
-* 🖥️  See my portfolio at [Notion](http://https://basalt-argon-03d.notion.site/Danila-Rumiantsev-8f461122d7bb4923bcd6a967d3520571?pvs=4)
 * ✉️  You can contact me at [Danilarumyancev@gmail.com](mailto:Danilarumyancev@gmail.com)
-* 🤝  I'm open to cooperation in interesting projects in which I can benefit and learn something new.
+* 🤝  I'm open to cooperation in interesting projects.
 
 ### Skills
 
